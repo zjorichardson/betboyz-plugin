@@ -869,8 +869,8 @@ After completing the First-Time Setup workflow, immediately save these values to
 Write credentials to your `.env` file or equivalent config immediately after each setup step:
 ```
 BETBOYZ_BASE_URL=https://api.betboyz.app
-BETBOYZ_API_KEY=bb_live_04bbe965aa1debeb0038e057ebd82144
-BETBOYZ_CUSTOMER_ID=878bfc8c-0219-4400-b036-121fe03d842c
+BETBOYZ_API_KEY=bb_live_<your-key>
+BETBOYZ_CUSTOMER_ID=<your-customer-uuid>
 BETBOYZ_ACCOUNT_FANDUEL=<uuid>
 BETBOYZ_ACCOUNT_DRAFTKINGS=<uuid>
 BETBOYZ_ACCOUNT_PAPER_NFL=<uuid>
